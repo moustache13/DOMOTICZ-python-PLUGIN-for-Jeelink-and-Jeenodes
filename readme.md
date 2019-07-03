@@ -10,7 +10,7 @@ Python plugin to use with Jeelink and Jeenodes
 
 - Example :
 
-   - 1 PAPP
+   - 1 PAPP </br>
      2. ...
 
 
