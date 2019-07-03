@@ -10,8 +10,8 @@ Python plugin to use with Jeelink and Jeenodes
 
 - Example :
 
-- 1. PAPP
-  2. ...
+   - 1 PAPP
+     2. ...
 
 
   Keys must be adapted to your Parameter in the onStart() parts. See configuration.
