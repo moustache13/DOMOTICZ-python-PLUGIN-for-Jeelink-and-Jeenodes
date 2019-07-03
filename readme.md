@@ -60,7 +60,7 @@ https://jeelabs.org/2011/01/14/nodes-addresses-and-interference/
 
 ## Format of message  sended by the Jeenode :
 
-blank Label1 Value1 Label2 Value2 Label3 Value3 Label4 Value14 blank
+blank Label1 Value1 Label2 Value2 Label3 Value3 Label4 Value4 blank
 
 Don’t forget the blank at the begining and at the end
 
